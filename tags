@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 style="color:plum;"><u>Hello HTML</u></h1>
+    <h2><i>Hello this is hema</i></h2>
+    <h3><b>I am from cse</b></h3>
+    <h4><s>at sasi engineering college</s></h4>
+    <h5><hr>placed in tadepalligudem</h5></h5>
+    <h1><br>new content</br></h1>
+    <h1>H<sub>2</sub>O</h1>
+    <h1>a<sup>2</sup>+b<sup>2</sup></h1>
+</body>
+</html>
