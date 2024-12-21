@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body style="background-color:pink">
+    <h1><b>THIS PAGE CONTAINS 1-1 SUBJECTS AND LABS</b></h1>
+    <ol>
+        <h2 style="font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;color: rgb(38, 0, 255);">SUBJECTS IN 1-1</h2>
+          <li><i>LA&C</i></li>
+          <li><i>CHEMISTRY</i></li>
+          <li><i>BCME</i></li>
+          <li><i>English</i></li>
+          <li><i>C PROGRAMMING</i></li>
+        <ul>
+        <h2 style="font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;color: blue;">LABS IN 1-1</h2>
+          <li><i>ENGINEERING WORKSHOP</i></li>
+          <li><i>C PROGRAMMING LAB</i></li>
+          <li><i>ENGLISH LAB</i></li>
+      </ul>
+    </ol>
+    <div>
+      <a href="two.html">
+        <button >CLICK TO 1-2</button>
+      </a>
+    </div>
+  </body>
+</html>
+#######
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pagination Example</title>
+  </head>
+  <body style="background-color: lightyellow;">
+    <h1><b>THIS PAGE CONTAINS 1-2 SUBJECTS AND LABS</b></h1>
+    <ol>
+      <h2 style="font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;color:fuchsia">SUBJECTS IN 1-2</h2>
+        <li><i>DE&VC</i></li>
+        <li><i>PHYSICS</i></li>
+        <li><i>BEEE</i></li>
+        <li><i>DATA STRUCTURES</i></li>
+        <li><i>GRAPHICS</i></li>
+      <ul>
+      <h2 style="font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;color: fuchsia;">LABS IN 1-2</h2>
+        <li><i>DS LAB</i></li>
+        <li><i>BEEE LAB</i></li>
+        <li><i>GRAPHICS LAB</i></li>
+      </ul>
+    </ol>
+    <div>
+      <a href="three.html">
+        <button>CLICK TO 2-1</button>
+      </a>
+    </div>
+  </body>
+</html>
+#######
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Page 2</title>
+  </head>
+  <body style="background-color: rgb(184, 226, 252);">
+    <h1><b>THIS PAGE CONTAINS 2-1 SUBJECTS AND LABS</b></h1>
+    <ol>
+      <h2 style="font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;color: orangered;">SUBJECTS IN 2-1</h2>
+        <li><i>DM&GT</i></li>
+        <li><i>JAVA</i></li>
+        <li><i>ADS</i></li>
+        <li><i>UHV</i></li>
+        <li><i>ES</i></li>
+        <li><i>DLCO</i></li>
+      <ul>
+      <h2 style="font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;color: orangered;">LABS IN 2-1</h2>
+        <li><i>ADS LAB</i></li>
+        <li><i>JAVA LAB</i></li>
+        <li><i>PYTHON LAB</i></li>
+      </ul>
+    </ol>
+    <div>
+      <a href="four.html">
+        <button>CLICK TO 2-2</button>
+      </a>
+    </div>
+  </body>
+</html>
+#######
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body style="background-color: rgb(247, 202, 165);">
+    <h1><b>THIS PAGE CONTAINS 2-2 SUBJECTS AND LABS</b></h1>
+    <ol>
+      <h2 style="font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;color: green;">SUBJECTS IN 2-2</h2>
+        <li><i>PB&S</i></li>
+        <li><i></i>MEFA</i></li>
+        <li><i></i>SE</i></li>
+        <li><i></i>DBMS</i></li>
+        <li><i></i>OS</i></li>
+        <li><i></i>DT&I</i></li>
+      <ul>
+      <h2 style="font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;color: green;">LABS IN 2-2</h2>
+        <li><i>DBMS</i></li>
+        <li><i>OS</i></li>
+        <li><i>DT&I</i></li>
+        <li><i>FULL STACK DEVELOPMENT</i></li>
+      </ul>
+    </ol>
+  </body>
+</html>
