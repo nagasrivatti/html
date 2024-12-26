@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Christmas Celebration</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>🎄 Merry Christmas! 🎄</h1>
+  </header>
+  
+  <section class="content">
+    <div class="christmas-tree">
+      <div class="tree"></div>
+      <div class="star"></div>
+    </div>
+    <p>Wishing you a season of joy, peace, and love. May your holidays be filled with happiness!</p>
+  </section>
+
+  <footer>
+    <p>🎁 Have a wonderful day to you! 🎁</p>
+  </footer>
+</body>
+<script>
+    for (let i = 0; i < 50; i++) {
+      const snowflake = document.createElement("div");
+      snowflake.classList.add("snowflake");
+      document.body.appendChild(snowflake);
+  
+      // Random position and animation speed
+      snowflake.style.left = Math.random() * 100 + '%';
+      snowflake.style.animationDuration = Math.random() * 10 + 5 + 's';
+    }
+  </script>
+  
+</html>
+
