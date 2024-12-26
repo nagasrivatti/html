@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Click for Birthday Message</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f8c471; /* A warm yellow background */
+            text-align: center;
+            padding: 50px;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+        }
+
+        h1 {
+            font-size: 40px;
+            color: #e74c3c; /* Red color for the heading */
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Text shadow effect */
+        }
+
+        button {
+            background-color: #3498db; /* Blue color for the button */
+            color: white;
+            font-size: 20px;
+            padding: 15px 30px;
+            border: none;
+            border-radius: 10px;
+            cursor: pointer;
+            margin-top: 30px;
+            transition: background-color 0.3s ease;
+        }
+
+        button:hover {
+            background-color: #2980b9; /* Darker blue when hovered */
+        }
+
+        #birthdayMessage {
+            display: none;
+            font-size: 30px;
+            color: #27ae60; /* Green color for the birthday message */
+            margin-top: 30px;
+            font-weight: bold;
+        }
+
+    </style>
+</head>
+<body>
+
+    <h1>Surprise for you</h1>
+    <button onclick="showBirthdayMessage()">Click Me for a Surprise!</button>
+
+    <p id="birthdayMessage">🎉🎄 HAPPY CRISTMAS!🎄🎉</p>
+
+    <script>
+        function showBirthdayMessage() {
+            var message = document.getElementById("birthdayMessage");
+            message.style.display = "block"; // Display the birthday message when button is clicked
+        }
+    </script>
+
+</body>
+</html>
