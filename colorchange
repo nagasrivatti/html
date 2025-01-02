@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>      
+        @keyframes colorChange{
+            0% {
+                background-color:#8327DE; 
+            }
+            14% {
+                background-color:#3D44DB; /*vibgyor*/
+               
+            }
+            28% {
+                background-color: #00A7E8;
+                 
+            }
+            42% {
+                background-color: #6EC700
+            }
+            57% {
+                background-color:  #E8D900
+            }
+            71% {
+                background-color:#FF6A00;
+             
+            }
+            85% {
+                background-color:  #F20000
+            }
+            100% {
+                background-color: #8327DE
+        }
+    }    
+        body {
+            animation: colorChange 2s infinite; /* 10s duration, infinite loop */
+            color: white;  
+            text-align: center;
+            margin-top: 300px;
+        }
+        
+       
+      
+    </style>
+</head>
+<body>
+
+   <h1>Hema</h1>
+
+</body>
+</html>
