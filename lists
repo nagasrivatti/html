@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <ol>
+        <li>cse</li>
+        <li>aiml</li>
+        <li>cic</li>
+        <li>csm</li>
+    </ol>
+    <ul>
+        <li>ece</li>
+        <li>ect</li>
+        <li>mech</li>
+        <li>civil</li>
+    </ul>
+    <ol>
+        <li>cse</li>
+        <li>aiml</li>
+        <li>cic</li>
+        <li>csm</li>
+        <ul>
+            <li>cse</li>
+            <li>aiml</li>
+            <li>cic</li>
+            <li>csm</li>
+        </ul>
+    </ol>
+    <dl>
+        <dt>cse</dt>
+        <dd>computer science and engineering</dd>
+        <dt>ece</dt>
+        <dd>electrical and communication engineering</dd>
+    </dl>
+</body>
+</html>
